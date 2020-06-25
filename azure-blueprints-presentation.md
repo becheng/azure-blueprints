@@ -26,20 +26,19 @@
 
 ## Keep an eye out for what's next in Blueprints
 - [ ] More advanced Assignment updates
-  - [ ] What-if analysis updates
-  - [ ] Resource delete
+  - What-if analysis updates
+  - Resource delete
 - [ ] Advanced resource locking
-  - [ ] Configure the artifacts to be locked instead of the whole assignment
-  - [ ] Pre/Post deployment script execution
-  - [ ] Advanced sequencing
-    - [ ] Passing values between artifacts
-  - [ ] Better import/export experience for sharing Blueprints accross tenants
-  - [ ] Support for assigning Blueprints to a Management Group
-  - [ ] Powershell cmdlets and CLI commands
-
+  - Configure the artifacts to be locked instead of the whole assignment
+- [ ] Pre/Post deployment script execution
+- [ ] Advanced sequencing
+  - Passing values between artifacts
+- [ ] Better import/export experience for sharing Blueprints accross tenants
+- [ ] Support for assigning Blueprints to a Management Group
+- [ ] Powershell cmdlets and CLI commands
 
 ### References
 - aka.ms/whatareblueprints
 - aka.ms/blueprintsdeepdive
-- aka.ms/bludprintsascode
+- aka.ms/blueprintsascode
   
